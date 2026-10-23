@@ -26,7 +26,7 @@ home-credit-scoring/
 │
 ├── Notebooks/                               # Research & experimentation pipeline
 │   ├── 01_data_preroration.ipynb            # EDA, feature engineering & aggregation
-│   ├── 02_hyperparameter_tuning.ipynb       # Optuna/GridSearch model optimization
+│   ├── 02_preparation_tuning.ipynb       # Optuna/GridSearch model optimization
 │   └── 03_oof_blend_submission.ipynb        # Out-of-Fold training & stacking ensemble
 │
 ├── Production/                              # Production inference & API layer
