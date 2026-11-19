@@ -4,6 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.csv
 *.parquet
+!FeatureStore/*.parquet
 Data/
 .env
 venv/
